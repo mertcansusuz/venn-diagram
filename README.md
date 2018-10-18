@@ -4,9 +4,9 @@
 ![](http://mathworld.wolfram.com/images/eps-gif/VennDiagram_900.gif)
 
 ## Goal
-For our Bioinformatics project, we decided to use data visualization methods which are very popular in these days. As a first thing to do, we decided to use the most basic and understandable diagram.
+For our Bioinformatics project, we decided to use data visualization methods which are very popular in these days. As a first thing to do, we decided to use the most basic and understandable diagram using D3 which is a JavaScript library for visualizing data.
 
-We created basic and responsive Venn Diagram by using JavaScript. It changes according to the values of sets and intersection values of sets.
+We created basic and responsive Venn Diagram by using JavaScript and D3 library. It changes according to the values of sets and intersection values of sets.
 
 ![](https://i.imgur.com/IxqVErE.png)
 
